@@ -1,4 +1,4 @@
 # ProcyoLang
 ProcyoLang Interactive Interpreted Programming Language
 
-[ProcyoLang New Repo]([https://github.com/ProcyonOS/ProcyoLang]))
+[ProcyoLang New Repo](https://github.com/ProcyonOS/ProcyoLang)
