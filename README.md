@@ -1,4 +1,4 @@
 # ProcyoLang
-ProcyoLang Interactive Interpreted Programming Language
+ProcyoLang is now Linea
 
-[ProcyoLang New Repo](https://github.com/ProcyonisSoftware/ProcyoLang)
+[Linea](https://github.com/gauthamnair2005/Linea)
